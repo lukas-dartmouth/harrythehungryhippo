@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 blah blah blah
+=======
+This is another text file in my personal branch
+>>>>>>> be8ee11d05be9422cd151f3df9895a543c1ee383
